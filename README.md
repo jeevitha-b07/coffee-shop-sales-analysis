@@ -12,7 +12,7 @@ The objective of this project is to analyze coffee shop sales data and identify 
 
 
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python – Data Cleaning & Data Preprocessing
 - Excel – Dashboard Creation & Data Visualization
@@ -49,10 +49,10 @@ Dataset obtained from Kaggle for coffee shop sales analysis.
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - Total Revenue
-- Total Quantity Purchased
+- Quantity Sold
 - Total Transactions
 - Average Order Value (AOV)
 - Average Items per Transaction
@@ -67,13 +67,13 @@ Dataset obtained from Kaggle for coffee shop sales analysis.
 
 
 
-## 📁 Excel Dashboard File
+##  Excel Dashboard File
 
 (Add Excel dashboard file here)
 
 
 
-## 🐍 Python Colab File
+##  Python Colab File
 https://colab.research.google.com/drive/1CNtPWSrtsA659xlZTcXCqnyBV490wQUk?usp=sharing
 
 
