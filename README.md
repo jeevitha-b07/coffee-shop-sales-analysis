@@ -18,7 +18,7 @@ The objective of this project is to analyze coffee shop sales data and identify 
 - Excel – Dashboard Creation & Data Visualization
 - Power Query – Data Transformation
 
----
+
 
 ##  Dataset Source
 
@@ -62,15 +62,10 @@ Dataset obtained from Kaggle for coffee shop sales analysis.
 ##  Dashboard Screenshots
 ![Sales_Dashboard](screenshots/sales_dashboard.png)
 
-### Sales Performance Dashboard
-
-(Add dashboard screenshot here)
-
 
 
 ##  Excel Dashboard File
-
-(Add Excel dashboard file here)
+[Coffee-Shop-Sales.xlsx](dashboard/Coffee-Shop-Sales.xlsx)
 
 
 
