@@ -60,6 +60,7 @@ Dataset obtained from Kaggle for coffee shop sales analysis.
 ---
 
 ##  Dashboard Screenshots
+![Sales_Dashboard](screenshots/sales_dashboard.png)
 
 ### Sales Performance Dashboard
 
