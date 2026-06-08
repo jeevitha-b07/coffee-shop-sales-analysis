@@ -65,7 +65,7 @@ Dataset obtained from Kaggle for coffee shop sales analysis.
 
 
 ## 📊 Excel Dashboard Workbook
-![Coffee-Shop-Sales](Excel-Dashboard-Workbook/Coffee-Shop-Sales.xlsx)
+![Coffee-Shop-Sales.xlsx](Excel-Dashboard-Workbook/Coffee-Shop-Sales.xlsx)
 
 
 
